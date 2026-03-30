@@ -1,6 +1,9 @@
 # Projeto-Fiap-Python
-<p> O arquivo manipulação_agenda apresenta uma agenda de banco de dados com interação.
-  
+<p> O arquivo <strong>manipulação_agenda</strong> apresenta uma agenda de banco de dados com interação.
+  <br clear="both">
+
+<p> A pasta <strong> dados </strong>presenta configurações para executar o painel django-admin. </p>
+
   <br clear="both">
   
 <h2 align="center"> Tela admin com Django-admin </h2> 
