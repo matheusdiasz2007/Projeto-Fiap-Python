@@ -2,7 +2,7 @@
 <p> O arquivo <strong>manipulação_agenda</strong>  apresenta uma agenda de banco de dados com interação.
   <br clear="both">
 
-<p> A pasta <strong> dados </strong>presenta configurações para executar o painel django-admin. </p>
+<p> A pasta <strong> dados </strong> apresenta configurações para executar o painel django-admin. </p>
 
   <br clear="both">
   
