@@ -1,8 +1,3 @@
-<h1 align="center"> Certificação Python Development - FIAP</h1>
-
-<img width="1227" height="851" alt="Captura de tela 2026-05-17 140554" src="https://github.com/user-attachments/assets/3eacaa49-d66e-4422-8871-e3746ee3bde9" />
-
-<h1 align="center">📒 Agenda de Contatos em Python</h1>
 
 <p align="center">
 Sistema de gerenciamento de contatos desenvolvido em Python com suporte para exportação TXT e JSON.
@@ -129,3 +124,12 @@ https://github.com/matheusdiasz2007
 ## 📄 Licença
 
 Projeto para fins acadêmicos e estudos.
+
+---
+
+<h1 align="center"> Certificação Python Development - FIAP</h1>
+
+<img width="1227" height="851" alt="Captura de tela 2026-05-17 140554" src="https://github.com/user-attachments/assets/3eacaa49-d66e-4422-8871-e3746ee3bde9" />
+
+<h1 align="center">📒 Agenda de Contatos em Python</h1>
+
