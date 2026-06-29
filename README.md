@@ -112,12 +112,15 @@ python manipulação_agenda.py
 
 ## 👨‍💻 Autor
 
-**Matheus Dias Pereira**
+### Matheus Dias Pereira
 
-Software Engineer | FullStack Developer
+🎓 Engineer Software
 
-GitHub:
-https://github.com/matheusdiasz2007
+🔗 GitHub: https://github.com/matheusdiasz2007
+
+🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
+
+⭐ Projeto desenvolvido para fins acadêmicos.
 
 ---
 
